@@ -8,7 +8,7 @@
 
 In this work we used the SciKit framework in order to produce different word and sentence embeddings with final objective the optimization of a sentiment analysis classifier.
 
-##### **Disclaimer**
+#### **Disclaimer**
 
 The purpose of the notebook is to show how to apply the various techniques and pipelines. We did not try to find the best model but only tested a number of configurations that would make execution quick.
 
