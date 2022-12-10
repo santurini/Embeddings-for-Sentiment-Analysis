@@ -10,7 +10,16 @@ In this work we used the SciKit framework in order to produce different word and
 
 #### **Disclaimer**
 
-The purpose of the notebook is to show how to apply the various techniques and pipelines. We did not try to find the best model but only tested a number of configurations that would make execution quick.
+The purpose of the notebook is to show how to apply the various techniques and pipelines. We did not try to find the best model but only tested a number of configurations that would make the execution feasible.
+
+## Friendly Reminder
+
+If you use or take inspiration from this repository please cite with this link: [santurini/Embeddings-for-Sentiment-Analysis](https://github.com/santurini/Embeddings-for-Sentiment-Analysis)
+
+Your support will be truly appreciated and feel free to contact me at my following links or just send me an email:
+- [Linkedin](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
+- [Kaggle](https://www.kaggle.com/santurini)
+- ghinassi.1863151@studenti.uniroma1.it
 
 ## The data
 
